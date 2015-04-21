@@ -12,11 +12,17 @@ Credits :
 ##Screenshots :
 
 ###UI
-![UI](https://raw.githubusercontent.com/titouan42/3DApp/master/ui/ui.png)
+![UI](https://raw.githubusercontent.com/titouan42/3DApp/master/image/ui.png)
 
 ![UI](https://raw.githubusercontent.com/titouan42/3DApp/master/scenes/sc_tree/uitree.png)
 
 ![UI](https://raw.githubusercontent.com/titouan42/3DApp/master/scenes/sc_screeneffect/ui.png)
+
+### Primitives
+![Primitives](https://raw.githubusercontent.com/titouan42/3DApp/master/image/premitive.png)
+
+### Material
+![Material](https://raw.githubusercontent.com/titouan42/3DApp/master/image/material.png)
 
 ###Spots
 ![Spots](https://raw.githubusercontent.com/titouan42/3DApp/master/scenes/sc_lights/multispotlight.png)
@@ -40,6 +46,9 @@ Credits :
 
 ###Model + Lights
 ![Model + Lights](https://raw.githubusercontent.com/titouan42/3DApp/master/scenes/sc_cornel_box/cornel.png)
+
+###Toons
+![Toons](https://raw.githubusercontent.com/titouan42/3DApp/master/image/toon.jpg)
 
 ###Normal mapping
 ![Normal mapping](https://raw.githubusercontent.com/titouan42/3DApp/master/scenes/sc_normal/normal.png)
