@@ -1,0 +1,278 @@
+# Blender MTL File: 'None'
+# Material Count: 23
+
+newmtl DASH
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd DASH.png
+map_d DASH.png
+map_Ka DASH.png
+
+newmtl dokan
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dokan.png
+map_d dokan.png
+map_Ka dokan.png
+
+newmtl heri
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd heri.png
+map_d heri.png
+map_Ka heri.png
+
+newmtl lambert212
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lambert212.png
+map_d lambert212.png
+map_Ka lambert212.png
+
+newmtl logo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd logo.png
+map_d logo.png
+map_Ka logo.png
+
+newmtl lwall
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lwall.png
+map_d lwall.png
+map_Ka lwall.png
+
+newmtl pasted__star_obj
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pasted__star_obj.png
+map_d pasted__star_obj.png
+map_Ka pasted__star_obj.png
+
+newmtl rainbow0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rainbow0.png
+map_d rainbow0.png
+map_Ka rainbow0.png
+
+newmtl rainbow0_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rainbow0_d.png
+map_d rainbow0_d.png
+map_Ka rainbow0_d.png
+
+newmtl rainbow1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.935484
+illum 2
+map_Kd rainbow1.png
+map_d rainbow1.png
+map_Ka rainbow1.png
+
+newmtl rainbow1_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.935484
+illum 2
+map_Kd rainbow1_d.png
+map_d rainbow1_d.png
+map_Ka rainbow1_d.png
+
+newmtl rainbow2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.870968
+illum 2
+map_Kd rainbow2.png
+map_d rainbow2.png
+map_Ka rainbow2.png
+
+newmtl rainbow2_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.870968
+illum 2
+map_Kd rainbow2_d.png
+map_d rainbow2_d.png
+map_Ka rainbow2_d.png
+
+newmtl rainbow3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.774194
+illum 2
+map_Kd rainbow3.png
+map_d rainbow3.png
+map_Ka rainbow3.png
+
+newmtl rainbow3_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.774194
+illum 2
+map_Kd rainbow3_d.png
+map_d rainbow3_d.png
+map_Ka rainbow3_d.png
+
+newmtl rainbow4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.677419
+illum 2
+map_Kd rainbow4.png
+map_d rainbow4.png
+map_Ka rainbow4.png
+
+newmtl rainbow4_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.645161
+illum 2
+map_Kd rainbow4_d.png
+map_d rainbow4_d.png
+map_Ka rainbow4_d.png
+
+newmtl rainbow5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.580645
+illum 2
+map_Kd rainbow5.png
+map_d rainbow5.png
+map_Ka rainbow5.png
+
+newmtl rainbow5_d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.548387
+illum 2
+map_Kd rainbow5_d.png
+map_d rainbow5_d.png
+map_Ka rainbow5_d.png
+
+newmtl rrainbow7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rrainbow7.png
+map_d rrainbow7.png
+map_Ka rrainbow7.png
+
+newmtl star
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd star.png
+map_d star.png
+map_Ka star.png
+
+newmtl wa1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd wa1.png
+map_d wa1.png
+map_Ka wa1.png
+
+newmtl ya
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ya.png
+map_d ya.png
+map_Ka ya.png

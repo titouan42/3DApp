@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene cubemap="0" grid="0" effect="0">
+    <camera>
+        <position X="10.4168" Y="11.9651" Z="-12.3298"/>
+        <options>
+            <mode>1</mode>
+            <far>3000</far>
+            <near>0.1</near>
+            <arcRadius>11.28</arcRadius>
+            <arcX>-0.872664</arcX>
+            <arcY>1.41372</arcY>
+            <fov>60</fov>
+        </options>
+    </camera>
+    <light type="2">
+        <position X="0" Y="7" Z="-10"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.2</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0.1</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+        </options>
+    </light>
+    <light type="0">
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.3</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+        </options>
+    </light>
+    <cube>
+        <position X="7" Y="2.51" Z="4"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="6">
+            <texture src="../../assets/box2.jpg" repeat="1"/>
+        </material>
+        <childs>
+            <sphere>
+                <position X="0" Y="5.5" Z="0"/>
+                <rotation X="180" Y="26" Z="0"/>
+                <scale X="2" Y="2" Z="2"/>
+                <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+                <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+                <specular R="1" G="1" B="1" A="1"/>
+                <options>
+                    <density>42</density>
+                </options>
+                <material type="6">
+                    <texture src="../../assets/earth/map.jpg" repeat="1"/>
+                </material>
+            </sphere>
+        </childs>
+    </cube>
+    <cube>
+        <position X="0" Y="2.51" Z="-1"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="6">
+            <texture src="../../assets/box2.jpg" repeat="1"/>
+        </material>
+    </cube>
+    <cube>
+        <position X="-7" Y="2.51" Z="4"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="6">
+            <texture src="../../assets/box2.jpg" repeat="1"/>
+        </material>
+        <childs>
+            <torus>
+                <position X="0" Y="0" Z="-5"/>
+                <rotation X="70" Y="0" Z="0"/>
+                <scale X="1" Y="1" Z="1"/>
+                <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+                <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+                <specular R="1" G="1" B="1" A="1"/>
+                <options>
+                    <radius>3</radius>
+                    <radius2>0.5</radius2>
+                    <density>64</density>
+                </options>
+                <material type="6">
+                    <texture src="../../assets/weave_diffuse.jpg" repeat="1"/>
+                </material>
+            </torus>
+        </childs>
+    </cube>
+    <plane>
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>1000</size>
+        </options>
+        <material type="6">
+            <texture src="../../assets/carrelage.png" repeat="99"/>
+        </material>
+    </plane>
+    <light type="3">
+        <position X="0" Y="53" Z="-4"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>1</intensity>
+            <specular R="0.298039" G="0.27451" B="1" A="1"/>
+            <diffuse R="0.298039" G="0.27451" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+            <cutoff>10</cutoff>
+            <exponent>2</exponent>
+        </options>
+    </light>
+    <light type="3">
+        <position X="-10" Y="68" Z="6"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>1</intensity>
+            <specular R="0.105882" G="0.419608" B="0.247059" A="1"/>
+            <diffuse R="0.105882" G="0.419608" B="0.247059" A="1"/>
+            <ambiant R="0.666667" G="0.666667" B="0.666667" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+            <cutoff>10</cutoff>
+            <exponent>2</exponent>
+        </options>
+    </light>
+    <light type="3">
+        <position X="6" Y="59" Z="6"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>1</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+            <cutoff>10</cutoff>
+            <exponent>2</exponent>
+        </options>
+    </light>
+</scene>

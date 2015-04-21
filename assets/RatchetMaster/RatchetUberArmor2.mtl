@@ -1,0 +1,51 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.09.2014 14:29:16
+
+newmtl Material__44d
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka qf_ratchetarmor_ubersuit_color.png
+	map_Kd qf_ratchetarmor_ubersuit_color.png
+	map_Ke qf_ratchetarmor_light.png
+	map_d nc1_range_bot_light_color.png
+	map_bump qf_ratchetarmor_normal.png
+	bump qf_ratchetarmor_normal.png
+
+newmtl Material__45
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka qf_ratchetarmor_visor_scroll_color.png
+	map_Kd qf_ratchetarmor_visor_scroll_color.png
+
+newmtl Material__44
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka qf_ratchetarmor_ubersuit_color.png
+	map_Kd qf_ratchetarmor_ubersuit_color.png
+	map_Ke qf_ratchetarmor_light.png
+	map_bump qf_ratchetarmor_normal.png
+	bump qf_ratchetarmor_normal.png

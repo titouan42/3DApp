@@ -1,0 +1,133 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.09.2014 13:58:12
+
+newmtl Material__52
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_neweyes_color.png
+	map_Kd ratchet_neweyes_color.png
+	map_bump ratchet_neweyes_normal.png
+	bump ratchet_neweyes_normal.png
+
+newmtl Material__49
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_eyes_color.png
+	map_Kd ratchet_eyes_color.png
+	map_Ke ratchet_eyes_light.png
+	map_d ratchet_eyes_color.png
+
+newmtl Material__50
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_head_color.png
+	map_Kd ratchet_head_color.png
+	map_bump ratchet_head_normal.png
+	bump ratchet_head_normal.png
+
+newmtl Material__51
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_mouth_color.png
+	map_Kd ratchet_mouth_color.png
+	map_bump ratchet_mouth_normal.png
+	bump ratchet_mouth_normal.png
+
+newmtl Material__47
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_body_02_color.png
+	map_Kd ratchet_body_02_color.png
+	map_Ke ratchet_body_02_light.png
+	map_bump ratchet_body_02_normal.png
+	bump ratchet_body_02_normal.png
+
+newmtl Material__48
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ratchet_body_color.png
+	map_Kd ratchet_body_color.png
+	map_Ke ratchet_body_light.png
+	map_bump ratchet_body_normal.png
+	bump ratchet_body_normal.png
+
+newmtl Material__43
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka qf_ratchetarmor_color.png
+	map_Kd qf_ratchetarmor_color.png
+	map_Ke qf_ratchetarmor_light.png
+	map_bump qf_ratchetarmor_normal.png
+	bump qf_ratchetarmor_normal.png
+
+newmtl Material__53
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nc1_range_bot_light_color.png
+	map_Kd nc1_range_bot_light_color.png
+	map_Ks nc1_range_bot_light_spec.png
+	map_d nc1_range_bot_light_color.png

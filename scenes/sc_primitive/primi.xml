@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene cubemap="0" grid="0" effect="0">
+    <camera>
+        <position X="0.5" Y="0" Z="0"/>
+        <options>
+            <mode>1</mode>
+            <far>3000</far>
+            <near>0.1</near>
+            <arcRadius>28.66</arcRadius>
+            <arcX>1.75842</arcX>
+            <arcY>0.388337</arcY>
+            <fov>60</fov>
+        </options>
+    </camera>
+    <light type="0">
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.4</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+        </options>
+    </light>
+    <plane>
+        <position X="0.5" Y="0" Z="0"/>
+        <rotation X="145" Y="0" Z="0"/>
+        <scale X="5.05447" Y="5.05447" Z="5.05447"/>
+        <ambiant R="0.45098" G="0.45098" B="0.45098" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>5</size>
+        </options>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </plane>
+    <light type="2">
+        <position X="0" Y="2" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.7</intensity>
+            <specular R="1" G="0.00784314" B="0.0235294" A="1"/>
+            <diffuse R="0.188235" G="0.713726" B="0.176471" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+        </options>
+    </light>
+    <light type="3">
+        <position X="-1.5" Y="18.5" Z="9.5"/>
+        <rotation X="230" Y="0" Z="0"/>
+        <options>
+            <intensity>0.5</intensity>
+            <specular R="1" G="0" B="0.0156863" A="1"/>
+            <diffuse R="0.337255" G="0.2" B="0.690196" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+            <cutoff>10</cutoff>
+            <exponent>2</exponent>
+        </options>
+    </light>
+    <light type="3">
+        <position X="0" Y="29" Z="0"/>
+        <rotation X="165" Y="0" Z="0"/>
+        <options>
+            <intensity>0.5</intensity>
+            <specular R="0.870588" G="0.882353" B="0.12549" A="1"/>
+            <diffuse R="0.105882" G="0.611765" B="0.164706" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+            <cutoff>10</cutoff>
+            <exponent>2</exponent>
+        </options>
+    </light>
+    <cube>
+        <position X="-5" Y="7" Z="-6"/>
+        <rotation X="60" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </cube>
+    <cylinder>
+        <position X="2" Y="8" Z="-6.5"/>
+        <rotation X="220" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.466667" G="0.27451" B="0.635294" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <radius>1</radius>
+            <height>7</height>
+        </options>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </cylinder>
+    <sphere>
+        <position X="9" Y="-1.5" Z="5"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="2.35" Y="2.35" Z="2.35"/>
+        <ambiant R="0.701961" G="0.505882" B="0.231373" A="1"/>
+        <diffuse R="0.639216" G="0.639216" B="0.639216" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <density>42</density>
+        </options>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </sphere>
+    <light type="2">
+        <position X="-7.5" Y="-4" Z="8"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.4</intensity>
+            <specular R="0.0156863" G="0.713726" B="0.0392157" A="1"/>
+            <diffuse R="0.760784" G="0.419608" B="0.12549" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+        </options>
+    </light>
+    <light type="1">
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="-50" Y="65" Z="0"/>
+        <options>
+            <intensity>0.4</intensity>
+            <specular R="0.988235" G="1" B="0.235294" A="1"/>
+            <diffuse R="0.341176" G="0.145098" B="0.611765" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+        </options>
+    </light>
+    <pyramid>
+        <position X="-7" Y="2" Z="0"/>
+        <rotation X="45" Y="-110" Z="0"/>
+        <scale X="4.12" Y="4.12" Z="4.12"/>
+        <ambiant R="0.270588" G="0.184314" B="0.909804" A="1"/>
+        <diffuse R="0.215686" G="0.698039" B="0.207843" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </pyramid>
+    <torus>
+        <position X="8.5" Y="5" Z="-5.5"/>
+        <rotation X="145" Y="0" Z="0"/>
+        <scale X="0.48" Y="0.48" Z="0.48"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <radius>7</radius>
+            <radius2>2</radius2>
+            <density>64</density>
+        </options>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </torus>
+</scene>

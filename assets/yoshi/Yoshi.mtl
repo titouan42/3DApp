@@ -1,0 +1,77 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl 03___Default
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376448 0.376448 0.376448
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd YoshSS05.png
+map_Ka YoshSS05.png
+
+newmtl 04___Default
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376448 0.376448 0.376448
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd YoshSS03.png
+map_Ka YoshSS03.png
+
+newmtl 05___Default
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376448 0.376448 0.376448
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd YoshSS06.png
+map_Ka YoshSS06.png
+
+newmtl Material__0
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376320 0.376320 0.376320
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Yoshi_3dsYoshiEtc.png
+map_Ka Yoshi_3dsYoshiEtc.png
+
+newmtl Material__1
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376320 0.376320 0.376320
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Yoshi_3dsYoshiHand.png
+map_Ka Yoshi_3dsYoshiHand.png
+
+newmtl Material__2
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376448 0.376448 0.376448
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Yoshi_3dsYoshiEye_0.png
+map_Ka Yoshi_3dsYoshiEye_0.png
+
+newmtl m1
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376448 0.376448 0.376448
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2

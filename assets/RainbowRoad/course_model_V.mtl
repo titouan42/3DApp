@@ -1,0 +1,50 @@
+# Blender MTL File: 'MKDS SHOT ITEM.blend'
+# Material Count: 4
+
+newmtl fog_bg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd fog_bg.png
+map_Ka fog_bg.png
+map_d fog_bg.png
+
+newmtl milky
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd milky.png
+map_Ka milky.png
+map_d milky.png
+
+newmtl milky2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd milky2.png
+map_Ka milky2.png
+map_d milky2.png
+
+newmtl space
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd space.png
+map_Ka space.png
+map_d space.png

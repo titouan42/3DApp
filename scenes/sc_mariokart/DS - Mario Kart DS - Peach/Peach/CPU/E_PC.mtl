@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+newmtl E_face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd E_face.png
+map_d E_face.png
+
+
+newmtl E_main
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.778000 0.778000 0.778000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd E_main.png
+map_d E_main.png
+
+

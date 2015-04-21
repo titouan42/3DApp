@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene cubemap="0" grid="0" effect="0">
+    <camera>
+        <position X="-0.0857973" Y="10.8551" Z="-13.9971"/>
+        <options>
+            <mode>1</mode>
+            <far>3000</far>
+            <near>0.1</near>
+            <arcRadius>13.44</arcRadius>
+            <arcX>4.69059</arcX>
+            <arcY>0.0087277</arcY>
+            <fov>60</fov>
+        </options>
+    </camera>
+    <plane>
+        <position X="0" Y="25" Z="0"/>
+        <rotation X="0" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>25</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <light type="2">
+        <position X="0" Y="7" Z="-10"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>0.4</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+            <constant>0.1</constant>
+            <linear>0.05</linear>
+            <quadratic>0</quadratic>
+        </options>
+    </light>
+    <plane>
+        <position X="0" Y="12.5" Z="12.5"/>
+        <rotation X="-90" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.298039" G="0.298039" B="0.298039" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>25</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <plane>
+        <position X="12.5" Y="12.5" Z="0"/>
+        <rotation X="-180" Y="0" Z="90"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>25</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <plane>
+        <position X="-12.5" Y="12.5" Z="0"/>
+        <rotation X="0" Y="0" Z="90"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>25</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <plane>
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="-180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>25</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <light type="0">
+        <position X="0" Y="0" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <options>
+            <intensity>1</intensity>
+            <specular R="1" G="1" B="1" A="1"/>
+            <diffuse R="1" G="1" B="1" A="1"/>
+            <ambiant R="1" G="1" B="1" A="1"/>
+        </options>
+    </light>
+    <cube>
+        <position X="7" Y="2.51" Z="4"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </cube>
+    <plane>
+        <position X="0" Y="24" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="1" G="1" B="1" A="1"/>
+        <diffuse R="0.980392" G="0.980392" B="0.980392" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options>
+            <size>5</size>
+        </options>
+        <material type="4">
+            <shineness>255</shineness>
+        </material>
+    </plane>
+    <cube>
+        <position X="0" Y="2.51" Z="0"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1.5" Y="1.5" Z="1.5"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+        <childs>
+            <sphere>
+                <position X="0" Y="6.7" Z="0"/>
+                <rotation X="180" Y="50" Z="0"/>
+                <scale X="2.7" Y="2.7" Z="2.7"/>
+                <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+                <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+                <specular R="1" G="1" B="1" A="1"/>
+                <options>
+                    <density>42</density>
+                </options>
+                <material type="6">
+                    <texture src="" repeat="1"/>
+                </material>
+            </sphere>
+        </childs>
+    </cube>
+    <cube>
+        <position X="-7" Y="2.51" Z="4"/>
+        <rotation X="180" Y="0" Z="0"/>
+        <scale X="1" Y="1" Z="1"/>
+        <ambiant R="0.3" G="0.3" B="0.3" A="1"/>
+        <diffuse R="0.7" G="0.7" B="0.7" A="1"/>
+        <specular R="1" G="1" B="1" A="1"/>
+        <options/>
+        <material type="4">
+            <shineness>64</shineness>
+        </material>
+    </cube>
+</scene>
